@@ -42,9 +42,6 @@ Html
 css
 
 
-### Creating A Pull Request
-
-
 
 ## License
 
@@ -52,4 +49,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/MMehrad/sear
 
 ## Authors
 
-* **Mehrad Yaghoobi** - *Computer Master's student* - [Mehrad Yaghoobi](https://github.com/MMehrad/) - *Built ReadME Template*
+* [Mehrad Yaghoobi](https://github.com/MMehrad/) - *Computer Master's student* 
