@@ -20,13 +20,12 @@
 
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
-* [Usage](#usage)
 * [License](#license)
 * [Authors](#authors)
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](asstes/images/ss1.png)
 
 Our project offers several unique features that enhance the user experience. First, we have placed a search bar where you can use two models from left to right or vice versa. This feature allows users to enter their search queries in a way that is most convenient for them, taking into account different typing habits and preferences.
 
@@ -42,11 +41,6 @@ JQuery
 Html
 css
 
-## Usage
-
-space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 ### Creating A Pull Request
 
@@ -59,8 +53,3 @@ Distributed under the MIT License. See [LICENSE](https://github.com/MMehrad/sear
 ## Authors
 
 * **Mehrad Yaghoobi** - *Computer Master's student* - [Mehrad Yaghoobi](https://github.com/MMehrad/) - *Built ReadME Template*
-
-
-* []()
-* []()
-* []()
