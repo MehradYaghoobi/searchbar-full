@@ -25,7 +25,7 @@
 
 ## About The Project
 
-![Screen Shot](asstes/images/ss1.png)
+![Screen Shot](assets/images/ss1.png)
 
 Our project offers several unique features that enhance the user experience. First, we have placed a search bar where you can use two models from left to right or vice versa. This feature allows users to enter their search queries in a way that is most convenient for them, taking into account different typing habits and preferences.
 
