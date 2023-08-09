@@ -1,25 +1,25 @@
 
 body {
-    direction: rtl;
+    direction: ltr;
 }
 
 .header-search-box {
-    float: right;
+    float: left;
 }
 
 .header-search-box .search-box form input {
-    padding-left: 30px;
-    padding-right: 50px;
+    padding-left: 50px;
+    padding-right: 30px;
 }
 
 .header-search-box .search-box .confirmed {
-    right: 66%;
-}
-
-.header-search-box .search-box .clear {
     left: 66%;
 }
 
+.header-search-box .search-box .clear {
+    right: 66%;
+}
+
 .change-lang{
-    color: #44b422;
+    color: #942130;
 }
